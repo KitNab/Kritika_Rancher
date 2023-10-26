@@ -1,0 +1,2 @@
+# Kritika_Rancher
+mysql
